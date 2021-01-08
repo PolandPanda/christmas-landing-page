@@ -26,7 +26,7 @@ send__title
 Send Gift Now
 
 send__description
-Start giving away before the holidays are over. Write the home address of the person who will send the gift.
+
 
 * FOOTER
 footer__description
