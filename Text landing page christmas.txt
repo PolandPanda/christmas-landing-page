@@ -30,5 +30,4 @@ send__description
 
 * FOOTER
 footer__description
-I sent a gift and it gives <br> happiness
 
